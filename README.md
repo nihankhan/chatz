@@ -50,11 +50,11 @@ go build
 ./chatz
 ```
 
-The server will start on `http://localhost:8012`.
+The server will start on `http://localhost:8080`.
 
 ## Usage
 
-1. Open your web browser and navigate to `http://localhost:8012`.
+1. Open your web browser and navigate to `http://localhost:8080`.
 2. Enter your username and start chatting!
 3. Explore different chat rooms and features.
 
@@ -73,7 +73,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [Gorilla WebSocket](https://github.com/gorilla/websocket) - A WebSocket library for Go.
-- ...
-
-```
-
